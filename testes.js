@@ -32,6 +32,8 @@ minhaPlaylist.adicionarTitulo(musica5);
 minhaPlaylist.adicionarTitulo(musica6);
 minhaPlaylist.adicionarTitulo(musica7);
 minhaPlaylist.adicionarTitulo(musica8);
+minhaPlaylist.adicionarTitulo(musica9); 
+minhaPlaylist.adicionarTitulo(musica10);
 
 // Imprima a Playlist no console
 console.log(minhaPlaylist);
